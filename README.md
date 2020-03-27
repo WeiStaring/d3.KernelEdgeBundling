@@ -1,4 +1,5 @@
 # d3.KernelEdgeBundling
 Javascript kernel Edge Bundling for d3.js
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
+![Image text](https://https://raw.githubusercontent.com/WeiStaring/d3.KernelEdgeBundling/master/images/2.jpg)
 ## Description
